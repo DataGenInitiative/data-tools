@@ -1,0 +1,34 @@
+# Ignore common data files
+*.csv
+*.tsv
+*.xls*
+*.ods
+*.db
+*.sqlite*
+*.parquet
+*.orc
+*.sav
+*.dta
+*.sas7*
+*.rda
+*.rdata
+*.rds
+*.npy
+*.npz
+*.h5
+*.mat
+*.avro
+*.feather
+*.arrow
+*.jsonl
+*.ndjson
+*.geojson
+*.shp
+*.kml
+*.pcap*
+
+# Ide
+.idea/
+
+# Folders
+data/
